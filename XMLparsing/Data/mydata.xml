@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<monsters>
+    <monster name="??????">
+        <status level="1" hp="1" mp="1"/>
+        <items>
+            <item name="??????????" gold="1"/>
+        </items>
+    </monster>
+    <monster name="???????">
+        <status level="5" hp="5" mp="5"/>
+        <items>
+            <item name="????" gold="2"/>
+            <item name="????" gold="5"/>
+        </items>
+    </monster>
+    <monster name="???">
+        <status level="10" hp="10" mp="10"/>
+        <items>
+            <item name="????" gold="10"/>
+            <item name="????" gold="5"/>
+        </items>
+    </monster>
+</monsters>
